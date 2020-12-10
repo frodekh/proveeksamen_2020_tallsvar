@@ -1,0 +1,1 @@
+sum av to stepfunksjoner, begge med negativ fluks, en som er bred med liten negativ fluks og en som er smal med stor negativ fluks, begge symmetrisk om 500nm

@@ -1,0 +1,1 @@
+et sett med to infinitesimalt tynne linjer (negativ fluks) på hver side av 500nm symmetrisk om 500nm og et annet tilsvarende sett men med annen avstand fra 500nm
