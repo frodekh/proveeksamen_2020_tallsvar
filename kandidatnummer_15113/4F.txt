@@ -1,1 +1,1 @@
-Overflatetemperatur T= 3619.05 Kelvin (gasstemperatur oppgitt i oppgave 4D ble brukt!).
+Overflatetemperatur T= 4342.79 Kelvin (gasstemperatur oppgitt i oppgave 4D ble brukt!).

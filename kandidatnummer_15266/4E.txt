@@ -1,1 +1,1 @@
-L= 0.1357 sol-luminositeter (gasstemperatur oppgitt i oppgave 4D ble brukt!).
+L= 8008.1388 sol-luminositeter (gasstemperatur oppgitt i oppgave 4D ble brukt!).
